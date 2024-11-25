@@ -1,0 +1,8 @@
+tensorflow==2.18.0  # Sesuaikan dengan versi TensorFlow yang Anda gunakan
+flask==2.3.3        # Flask untuk API backend
+flask-cors==3.0.10  # Untuk mengatasi CORS jika API digunakan di aplikasi mobile/web
+numpy==1.24.3       # Pendukung operasi array
+Pillow==9.5.0       # Untuk manipulasi gambar
+gunicorn==20.1.0    # Untuk deployment Flask di server
+tensorflow-hub==0.14.0
+psycopg2==2.9.6
